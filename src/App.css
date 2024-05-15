@@ -1,0 +1,36 @@
+
+.box-head-container{
+  width: 80%;
+  height: auto;
+  margin: 0px auto;
+  display: flex;
+}
+.box-head{
+  width: 100px;
+  height: 50px;
+ 
+}
+.two{
+  width: 250px;
+}
+.three{
+  width: 300px;
+}
+.five{
+  width: 273px;
+}
+.empAdd-input{
+  height: 50px;
+  width: 90%;
+  margin: auto;
+}
+.dropdown-add{
+  width: 95%;
+  margin: 20px auto;
+}
+.modal {
+  backdrop-filter: blur(8px); /* Adjust the blur intensity as needed */
+  background: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity as needed */
+}
+
+
